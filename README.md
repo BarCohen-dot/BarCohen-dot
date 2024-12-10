@@ -1,5 +1,5 @@
-<h1 style="color:#4CAF50;">👋 Hi, I’m Bar Cohen, a final-year Information Systems (B.Sc) student</h1>
-<p style="color:#333333;">with a strong passion for <span style="color:#FF5722;">data</span>, <span style="color:#FF5722;">software development</span>, <span style="color:#FF5722;">artificial intelligence (AI)</span>, <span style="color:#FF5722;">machine learning (ML)</span>, and <span style="color:#FF5722;">software testing</span>.</p>
+<h1 style="color:#4CAF50;">👋 Hi, I’m Bar Cohen, a final-year Information Systems (B.Sc) </h1>
+<p style="color:#333333;">Student with a strong passion for <span style="color:#FF5722;">data</span>, <span style="color:#FF5722;">software development</span>, <span style="color:#FF5722;">artificial intelligence (AI)</span>, <span style="color:#FF5722;">machine learning (ML)</span>, and <span style="color:#FF5722;">software testing</span>.</p>
 
 <h2 style="color:#2196F3;">🚀 Career Overview</h2>
 <p style="color:#333333;">Throughout my career, I have cultivated practical skills such as analytical thinking, problem-solving, and working under pressure. My journey began as a cadet and practical mechanical engineer in the <span style="color:#3F51B5;">IDF</span>, where I gained valuable experience in the machinery industry. These challenges inspired me to transition into the field of <span style="color:#3F51B5;">Information Systems</span>, where I can apply my expertise to solve complex problems and drive innovation.</p>
