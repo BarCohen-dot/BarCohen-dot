@@ -7,6 +7,6 @@
 <h2 style="color:#8BC34A;">👀 Looking to Collaborate</h2>
 <p style="color:#333333;">I’m looking to collaborate on projects in <span style="color:#FF5722;">AI</span>, <span style="color:#FF5722;">ML</span>, and <span style="color:#FF5722;">software development</span>, and would love to work with people who are passionate about innovation.</p>
 <h2 style="color:#9C27B0;">📫 How to Reach Me?</h2>
-<p style="color:#333333;">You can contact me through <a href="[https://www.linkedin.com/in/bar-cohen](https://www.linkedin.com/in/bar--cohen-/)" style="color:#2196F3;">LinkedIn</a>.</p>
+<p style="color:#333333;">You can contact me through <a href="https://www.linkedin.com/in/bar--cohen-/" style="color:#2196F3;">LinkedIn</a>.</p>
 <h2 style="color:#FF9800;">⚡ Fun Fact</h2>
 <p style="color:#333333;">I’m working on a predictive system that leverages machine learning to detect cyber incidents and predict issues in manufacturing lines. By analyzing cybersecurity events alongside production data, the system helps prevent potential failures in the production process and ensures smooth operations.</p>
