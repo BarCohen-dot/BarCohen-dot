@@ -5,7 +5,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barcohen&label=visitors&color=green&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=barcohen&label=Profile+Views&color=00FF00&labelColor=000000&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
