@@ -49,21 +49,17 @@ Open to projects involving **AI**, **ML**, **data-driven applications**, or **cy
 
 ---
 
-## 📫 Connect with Me
-
-[**LinkedIn**](https://www.linkedin.com/in/bar--cohen-)
-
----
-
 ## ⚡ Fun Fact
 
 Outside of tech, I explore **innovative product ideas**, smart systems, and **AI-driven solutions** that simplify daily life and enhance user experience.
 
-### 🌐 Connect with me
+---
+
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/bar-cohen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/barcohen"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/bar-cohen](https://www.linkedin.com/in/bar--cohen-)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://github.com/barcohen](https://github.com/BarCohen-dot)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
