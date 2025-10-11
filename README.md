@@ -40,8 +40,8 @@ This experience inspired me to specialize in **Information Systems** and **Data 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&layout=compact" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Bar Cohen GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarCohen-dot&theme=dark&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BarCohen-dot&show_icons=true&theme=dark" alt="Bar Cohen GitHub Stats" />
 </p>
 
 ---
