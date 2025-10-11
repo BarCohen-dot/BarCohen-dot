@@ -26,7 +26,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ---
 
-## 🚀 Career Overview
+<h2 style="color:#00FF00">🚀 Career Overview</h2>
 
 I started as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, developing strong analytical and problem-solving skills.  
 This led me to specialize in **Information Systems** & **Data Science**, bridging technology, data, and innovation.
