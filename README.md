@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=50&lines=Bar+Cohen+|+Data+Scientist;Cybersecurity%26Ethical+Hacking+Enthusiast;Passionate+about+AI+Systems;Turning+Data+into+Insight,+and+Curiosity+into+Code;Information+Systems&background=000000&width=1200&height=200&center=true&vCenter=true" 
        alt="Typing Animation Header" 
-       style="border: 15px solid rgba(0,255,0,0.3); border-radius: 15px;" />
+       style="border: 0; box-shadow: 0 0 30px #00FF00;" />
 </p>
+
 
 
 <!-- Profile Views -->
