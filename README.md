@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30&lines=Bar+Cohen;Data Scientist;Architecting+Digital+Resilience" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30&lines=Bar+Cohen%20-%20Data+Scientist%20-%20Architecting+Digital+Resilience" alt="Typing Animation" />
 </p>
 
 # 👋 Hi, I'm **Bar Cohen**
