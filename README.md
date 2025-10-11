@@ -62,8 +62,6 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 ---
 
----
-
 ## 📫 Connect with Me
 
 <p align="center" style="background-color:#111111; padding:10px; border-radius:15px;">
