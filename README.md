@@ -26,8 +26,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ---
 
-<h2 style="color:#00FF00">🚀 Career Overview</h2>
-<hr style="border:1px solid #00FF00">
+## 🚀 Career Overview <img src="https://img.shields.io/badge/-Overview-00FF00?style=for-the-badge">
 
 I started as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, developing strong analytical and problem-solving skills.  
 This led me to specialize in **Information Systems** & **Data Science**, bridging technology, data, and innovation.
