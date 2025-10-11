@@ -1,9 +1,21 @@
 <!-- Cyber / Data Science Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=50&lines=Bar+Cohen+|+Data+Scientist;Cybersecurity%26Ethical+Hacking+Enthusiast;Passionate+about+AI+Systems;Turning+Data+into+Insight,+and+Curiosity+into+Code;Information+Systems&background=000000&width=1200&height=200" 
-       alt="Typing Animation Header" 
-       style="border: 4px solid #00FF00; border-radius: 15px;" />
-</p>
+<svg width="1200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- ריבוע שחור עם glow ירוק -->
+  <rect x="0" y="0" width="1200" height="200" fill="black" stroke="#00FF00" stroke-width="4" filter="url(#glow)"/>
+  <!-- הטקסט במרכז -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Orbitron" font-size="50" fill="#00FF00">
+    Bar Cohen | Data Scientist; Cybersecurity & Ethical Hacking Enthusiast
+  </text>
+</svg>
 
 <!-- Profile Views -->
 <p align="center">
