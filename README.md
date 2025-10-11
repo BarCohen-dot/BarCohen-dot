@@ -1,6 +1,6 @@
 <!-- Cyber / Data Science Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=70&lines=Bar+Cohen+|+Data+Scientist;Cybersecurity&Ethical+Hacking+ Enthusiast;Passionate+about+AI+Systems;urning+Data+into+Insight,+and+Curiosity+into+Code;Information+Systems&background=000000&width=1000&height=200" alt="Typing Animation Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=70&lines=Bar+Cohen+|+Data+Scientist;Cybersecurity%26Ethical+Hacking+Enthusiast;Passionate+about+AI+Systems;Turning+Data+into+Insight,+and+Curiosity+into+Code;Information+Systems&background=000000&width=1000&height=200" alt="Typing Animation Header" />
 </p>
 
 <!-- Profile Views -->
