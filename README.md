@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqd25xMHRvYm95ZmE2MXAweGd4N3ZqNTc4NXB5bWcxMjE4ZmVhMyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L59aKRLlJ2QfE4W7b7/giphy.gif" alt="Hacking Matrix Code Animation" width="400"/>
+  <img src="https://media.giphy.com/media/IZtN9uJ5V2Q2r4qJtN/giphy.gif" alt="Hacking Terminal Code Animation" width="400"/>
 </p>
 
 # 👋 Hi, I'm **Bar Cohen**
@@ -18,7 +18,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,jupyter,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow&theme=dark" alt="Data Science Stack" title="Python, Jupyter, RStudio, Pandas, NumPy, Scikit-learn, Tableau, Power BI, TensorFlow" />
     <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php&theme=dark" alt="Databases and Backend" title="SQL Server, MySQL, PostgreSQL, Java, HTML, CSS, Bootstrap, JavaScript, PHP" />
-    <img src="https://skillicons.dev/icons?i=azure,docker,linux,vscode,git,bash,c&theme=dark" alt="Cloud and Cyber Tools" title="Microsoft Azure, Docker, Linux, VSCode, Git, Bash, C/C++" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,linux,vscode,git,bash,c&theme=dark" alt="Cloud and Cyber Tools" title="Microsoft Azure, Docker, Linux, VSCode, Git, Bash" />
 </p>
 
 ---
@@ -39,6 +39,7 @@ This experience inspired me to specialize in **Information Systems** and **Data 
 💡 My recent final project focused on predicting **cybersecurity incidents at Microsoft** using machine learning algorithms — integrating real-world data to enhance system resilience and reliability.
 
 ---
+
 ## 🌱 Driven and Adaptable
 
 I’m committed to continuous learning, growth, and collaboration.
