@@ -74,7 +74,5 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
   </a>
 </p>
 
-
-
 ---
 
