@@ -18,8 +18,8 @@ I’m passionate about transforming data into actionable insights through **Mach
 ---
 
 <!-- Skills Icons -->
-<p align="center" style="background-color:#000000; padding:10px; border-radius:10px;">
-  <img src="https://skillicons.dev/icons?i=py,jupyter,anaconda,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow,sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php,azure,docker,linux,vscode,git,bash,github&theme=dark" 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,jupyter,anaconda,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow,sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php,azure,docker,linux,vscode,git,bash,github&theme=dark&bg=000000" 
        alt="Full Tech Stack" 
        title="Python, R, SQL, ML, Cloud, Cybersecurity Tools"/>
 </p>
