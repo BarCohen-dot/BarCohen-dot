@@ -1,20 +1,23 @@
+<!-- Cyber / Data Science Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30&lines=Bar+Cohen%20-%20Data+Scientist%20-%20Architecting+Digital+Resilience" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30&lines=Bar+Cohen+|+Data+Scientist;Architecting+Digital+Resilience" alt="Typing Animation" />
 </p>
 
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=barcohen&label=visitors&color=blue&style=flat-square" alt="Profile views"/>
 </p>
+
+---
 
 🎓 **Graduate in Information Systems (B.Sc)** with a specialization in **Data Science**.  
 I’m passionate about transforming data into actionable insights through **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Software Engineering**, with a focus on **Cybersecurity**.
 
 ---
 
+<!-- Skills Icons -->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,jupyter,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow&theme=dark" alt="Data Science Stack" title="Python, Jupyter, RStudio, Pandas, NumPy, Scikit-learn, Tableau, Power BI, TensorFlow" />
-    <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php&theme=dark" alt="Databases and Backend" title="SQL Server, MySQL, PostgreSQL, Java, HTML, CSS, Bootstrap, JavaScript, PHP" />
-    <img src="https://skillicons.dev/icons?i=azure,docker,linux,vscode,git,bash&theme=dark" alt="Cloud and Cyber Tools" title="Microsoft Azure, Docker, Linux, VSCode, Git, Bash" />
+  <img src="https://skillicons.dev/icons?i=py,jupyter,anaconda,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow,sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php,azure,docker,linux,vscode,git,bash,github&theme=dark" alt="Full Tech Stack" title="Python, R, SQL, ML, Cloud, Cybersecurity Tools" />
 </p>
 
 ---
@@ -58,8 +61,11 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/bar-cohen](https://www.linkedin.com/in/bar--cohen-)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://github.com/barcohen](https://github.com/BarCohen-dot)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bar--cohen-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/BarCohen-dot" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
----
