@@ -51,19 +51,19 @@ I combine technical depth with curiosity, creativity, and a proactive approach t
 
 ---
 
-## 🤝 Let’s Collaborate!
+## <img src="https://img.shields.io/badge/-Let’s%20Collaborate!-006400?style=for-the-badge&logoColor=white"/>
 
 Open to projects involving **AI**, **ML**, **data-driven applications**, or **cybersecurity**, especially innovative ones with real-world impact.
 
 ---
 
-## ⚡ Fun Fact
+## <img src="https://img.shields.io/badge/-Fun%20Fact-2F4F4F?style=for-the-badge&logoColor=white"/>
 
 Outside of tech, I explore **innovative product ideas**, smart systems, and **AI-driven solutions** that simplify daily life and enhance user experience.
 
 ---
 
-## 📫 Connect with Me
+## <img src="https://img.shields.io/badge/-Connect%20with%20Me-0D47A1?style=for-the-badge&logoColor=white"/>
 
 <p align="center" style="background-color:#111111; padding:10px; border-radius:15px;">
   <a href="https://www.linkedin.com/in/bar--cohen-" target="_blank">
