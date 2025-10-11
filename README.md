@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IZtN9uJ5V2Q2r4qJtN/giphy.gif" alt="Hacking Terminal Code Animation" width="400"/>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Matrix Code Animation" width="400"/>
 </p>
 
 # 👋 Hi, I'm **Bar Cohen**
 
 🎓 **Graduate in Information Systems (B.Sc)** with a specialization in **Data Science**.  
-I’m passionate about transforming data into actionable insights through **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Software Engineering**, with a special interest in **Cybersecurity**.
+I’m passionate about transforming data into actionable insights through **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Software Engineering**, with a focus on **Cybersecurity**.
 
 ---
 
@@ -25,8 +25,8 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ## 🚀 Career Overview
 
-My journey started as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, building strong analytical and problem-solving skills.  
-This led me to **Information Systems** & **Data Science**, bridging technology, data, and innovation.
+I started as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, developing strong analytical and problem-solving skills.  
+This led me to specialize in **Information Systems** & **Data Science**, bridging technology, data, and innovation.
 
 ---
 
@@ -34,31 +34,40 @@ This led me to **Information Systems** & **Data Science**, bridging technology, 
 
 * Building intelligent, data-driven systems  
 * Developing predictive ML models  
-* Designing scalable, secure, resilient software solutions  
+* Designing scalable, secure, and resilient software solutions  
 
-💡 Final project: predicting **Microsoft cybersecurity incidents** using ML to enhance system resilience.
+💡 My final project focused on predicting **cybersecurity incidents at Microsoft** using machine learning to improve system resilience.
 
 ---
 
-## 🌱 Driven and Adaptable
+## 🌌 Cyber & Dark Theme Animations
 
-Committed to continuous learning, growth, and collaboration.  
-Combining technical depth with curiosity, creativity, and proactive problem-solving.
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cyber Intrusion Alert" width="400"/>
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Hacking Terminal Event" width="400"/>
+</p>
+
+---
+
+## 🌱 Driven & Adaptable
+
+I thrive on continuous learning, growth, and collaboration.  
+I combine technical depth with curiosity, creativity, and a proactive approach to problem-solving.
 
 ---
 
 ## 🤝 Let’s Collaborate!
 
-Open to projects in **AI**, **ML**, **data-driven apps**, or **cybersecurity**, especially innovative ones with real impact.
+Open to projects involving **AI**, **ML**, **data-driven applications**, or **cybersecurity**, especially innovative ones with real-world impact.
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect with Me
 
-Connect on [**LinkedIn**](https://www.linkedin.com/in/bar--cohen-)
+[**LinkedIn**](https://www.linkedin.com/in/bar--cohen-)
 
 ---
 
 ## ⚡ Fun Fact
 
-Outside tech, I explore **innovative product ideas**, smart systems, and **AI-driven solutions** that simplify life and enhance user experience.
+Outside of tech, I explore **innovative product ideas**, smart systems, and **AI-driven solutions** that simplify daily life and enhance user experience.
