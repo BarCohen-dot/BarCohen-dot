@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30&lines=Bar+Cohen;Cyber+%26+Data+Alchemist;Architecting+Digital+Resilience" alt="Typing Animation" />
 </p>
 
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqd25xMHRvYm95ZmE2MXAweGd4N3ZqNTc4NXB5bWcxMjE4ZmVhMyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L59aKRLlJ2QfE4W7b7/giphy.gif" alt="Hacking Matrix Code Animation" width="400"/>
+</p>
+
 # 👋 Hi, I'm **Bar Cohen**
 
 🎓 **Graduate in Information Systems (B.Sc)** with a specialization in **Data Science**.
@@ -12,10 +16,9 @@ I’m passionate about transforming data into actionable insights through **Mach
 ## 💻 Tech Stack & Cyber Arsenal
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,jupyter,tensorflow,scikitlearn,r&theme=dark&perline=5&icon-j=none,none&v=1.0" alt="Data Science Icons" title="Python, Jupyter, TensorFlow, Scikit-learn, R" />
-    <img src="https://skillicons.dev/icons?i=vscode,git,docker,kubernetes,aws,gcp&theme=dark&perline=6" alt="DevOps & Cloud Icons" title="VSCode, Git, Docker, Kubernetes, AWS, GCP" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb&theme=dark&perline=6" alt="Web & Database Icons" title="HTML, CSS, JavaScript, Node.js, React, MongoDB" />
-    <img src="https://skillicons.dev/icons?i=c,bash,linux&theme=dark&perline=3" alt="Security & System Tools" title="C/C++, Bash Scripting, Linux" />
+    <img src="https://skillicons.dev/icons?i=py,jupyter,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow&theme=dark" alt="Data Science Stack" title="Python, Jupyter, RStudio, Pandas, NumPy, Scikit-learn, Tableau, Power BI, TensorFlow" />
+    <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php&theme=dark" alt="Databases and Backend" title="SQL Server, MySQL, PostgreSQL, Java, HTML, CSS, Bootstrap, JavaScript, PHP" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,linux,vscode,git,bash,c&theme=dark" alt="Cloud and Cyber Tools" title="Microsoft Azure, Docker, Linux, VSCode, Git, Bash, C/C++" />
 </p>
 
 ---
@@ -36,16 +39,6 @@ This experience inspired me to specialize in **Information Systems** and **Data 
 💡 My recent final project focused on predicting **cybersecurity incidents at Microsoft** using machine learning algorithms — integrating real-world data to enhance system resilience and reliability.
 
 ---
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarCohen-dot&theme=dark&layout=compact" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BarCohen-dot&show_icons=true&theme=dark" alt="Bar Cohen GitHub Stats" />
-</p>
-
----
-
 ## 🌱 Driven and Adaptable
 
 I’m committed to continuous learning, growth, and collaboration.
