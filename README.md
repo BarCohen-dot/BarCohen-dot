@@ -25,46 +25,47 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ## 🚀 Career Overview
 
-My journey started as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, where I built strong analytical and problem-solving skills.  
-This experience led me to **Information Systems** and **Data Science**, bridging technology, data, and innovation to solve complex challenges.
+My journey started as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, building strong analytical and problem-solving skills.  
+This led me to **Information Systems** & **Data Science**, bridging technology, data, and innovation.
 
 ---
 
 ## 🎯 Focus Areas
 
-* Building intelligent and data-driven systems  
-* Developing predictive machine learning models  
-* Designing scalable, secure, and resilient software solutions  
+* Building intelligent, data-driven systems  
+* Developing predictive ML models  
+* Designing scalable, secure, resilient software solutions  
 
-💡 My final project focused on predicting **cybersecurity incidents at Microsoft** using machine learning — integrating real-world data to enhance system resilience.
+💡 Final project: predicting **Microsoft cybersecurity incidents** using ML to enhance system resilience.
 
 ---
 
-## 🌌 Dark Cyber Animations  
+## 🌌 Dark Cyber Animations
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Cyber Dark Matrix Animation" width="400"/>
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" alt="Cyber Security Event Animation" width="400"/>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Matrix Code Animation" width="400"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cyber Intrusion Alert" width="400"/>
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Hacking Terminal Event" width="400"/>
 </p>
 
 ---
 
 ## 🌱 Driven and Adaptable
 
-I’m committed to continuous learning, growth, and collaboration.  
-I combine technical depth with curiosity, creativity, and a proactive approach to problem-solving.
+Committed to continuous learning, growth, and collaboration.  
+Combining technical depth with curiosity, creativity, and proactive problem-solving.
 
 ---
 
 ## 🤝 Let’s Collaborate!
 
-I’m open to projects in **AI**, **ML**, **data-driven applications**, or **cybersecurity**, especially those that push the boundaries of innovation and create real impact.
+Open to projects in **AI**, **ML**, **data-driven apps**, or **cybersecurity**, especially innovative ones with real impact.
 
 ---
 
 ## 📫 How to Reach Me
 
-Connect with me on [**LinkedIn**](https://www.linkedin.com/in/bar--cohen-)
+Connect on [**LinkedIn**](https://www.linkedin.com/in/bar--cohen-)
 
 ---
 
