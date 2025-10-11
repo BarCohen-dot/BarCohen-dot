@@ -26,7 +26,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ---
 
-## 🚀 Career Overview <img src="https://img.shields.io/badge/-Career%20Overview-0077B5?style=for-the-badge&logoColor=white"/>
+## 🚀<img src="https://img.shields.io/badge/-Career%20Overview-0077B5?style=for-the-badge&logoColor=white"/>
 
 
 I started as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, developing strong analytical and problem-solving skills.  
@@ -34,7 +34,7 @@ This led me to specialize in **Information Systems** & **Data Science**, bridgin
 
 ---
 
-## 🎯 Focus Areas
+## 🎯<img src="https://img.shields.io/badge/-Focus%20OAreas-FFFF00?style=for-the-badge&logoColor=white"/>
 
 * Building intelligent, data-driven systems  
 * Developing predictive ML models  
