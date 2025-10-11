@@ -1,12 +1,9 @@
 <!-- Cyber / Data Science Banner -->
----
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=50&lines=Bar+Cohen+|+Data+Scientist;Cybersecurity%26Ethical+Hacking+Enthusiast;Passionate+about+AI+Systems;Turning+Data+into+Insight,+and+Curiosity+into+Code;Information+Systems&background=000000&width=1300&height=200&center=true&vCenter=true" 
        alt="Typing Animation Header" 
-       style="border: 0; box-shadow: 0 0 30px #00FF00;" />
+       style="border: 3; box-shadow: 0 0 30px #00FF00;" />
 </p>
----
-
 
 <!-- Profile Views -->
 <p align="center">
