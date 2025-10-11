@@ -8,8 +8,8 @@
 
 # 👋 Hi, I'm **Bar Cohen**
 
-🎓 **Graduate in Information Systems (B.Sc)** with a specialization in **Data Science**.
-I’m passionate about transforming data into actionable insights through **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Software Engineering**.
+🎓 **Graduate in Information Systems (B.Sc)** with a specialization in **Data Science**.  
+I’m passionate about transforming data into actionable insights through **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Software Engineering**, with a special interest in **Cybersecurity**.
 
 ---
 
@@ -18,38 +18,47 @@ I’m passionate about transforming data into actionable insights through **Mach
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,jupyter,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow&theme=dark" alt="Data Science Stack" title="Python, Jupyter, RStudio, Pandas, NumPy, Scikit-learn, Tableau, Power BI, TensorFlow" />
     <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php&theme=dark" alt="Databases and Backend" title="SQL Server, MySQL, PostgreSQL, Java, HTML, CSS, Bootstrap, JavaScript, PHP" />
-    <img src="https://skillicons.dev/icons?i=azure,docker,linux,vscode,git,bash,c&theme=dark" alt="Cloud and Cyber Tools" title="Microsoft Azure, Docker, Linux, VSCode, Git, Bash, C/C++" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,linux,vscode,git,bash&theme=dark" alt="Cloud and Cyber Tools" title="Microsoft Azure, Docker, Linux, VSCode, Git, Bash" />
 </p>
 
 ---
 
 ## 🚀 Career Overview
 
-My professional journey began as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, where I developed strong analytical and problem-solving skills.
-This experience inspired me to specialize in **Information Systems** and **Data Science**, bridging technology, data, and innovation to solve complex challenges.
+My journey started as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, where I built strong analytical and problem-solving skills.  
+This experience led me to **Information Systems** and **Data Science**, bridging technology, data, and innovation to solve complex challenges.
 
 ---
 
 ## 🎯 Focus Areas
 
-* Building intelligent and data-driven systems
-* Developing predictive machine learning models
-* Designing scalable and secure software solutions
+* Building intelligent and data-driven systems  
+* Developing predictive machine learning models  
+* Designing scalable, secure, and resilient software solutions  
 
-💡 My recent final project focused on predicting **cybersecurity incidents at Microsoft** using machine learning algorithms — integrating real-world data to enhance system resilience and reliability.
+💡 My final project focused on predicting **cybersecurity incidents at Microsoft** using machine learning — integrating real-world data to enhance system resilience.
+
+---
+
+## 🌌 Dark Cyber Animations  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Cyber Dark Matrix Animation" width="400"/>
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" alt="Cyber Security Event Animation" width="400"/>
+</p>
 
 ---
 
 ## 🌱 Driven and Adaptable
 
-I’m committed to continuous learning, growth, and collaboration.
+I’m committed to continuous learning, growth, and collaboration.  
 I combine technical depth with curiosity, creativity, and a proactive approach to problem-solving.
 
 ---
 
 ## 🤝 Let’s Collaborate!
 
-I’m open to collaborating on projects involving **AI**, **ML**, **data-driven applications**, or **cybersecurity** — especially those that push the boundaries of innovation and create real impact.
+I’m open to projects in **AI**, **ML**, **data-driven applications**, or **cybersecurity**, especially those that push the boundaries of innovation and create real impact.
 
 ---
 
@@ -61,4 +70,4 @@ Connect with me on [**LinkedIn**](https://www.linkedin.com/in/bar--cohen-)
 
 ## ⚡ Fun Fact
 
-Outside of tech, I enjoy exploring **innovative product ideas** — from smart systems to **AI-driven solutions** that simplify everyday life and enhance user experience.
+Outside tech, I explore **innovative product ideas**, smart systems, and **AI-driven solutions** that simplify life and enhance user experience.
