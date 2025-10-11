@@ -7,6 +7,8 @@
 🎓 **Graduate in Information Systems (B.Sc)** with a specialization in **Data Science**.  
 I’m passionate about transforming data into actionable insights through **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Software Engineering**, with a focus on **Cybersecurity**.
 
+---
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,jupyter,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow&theme=dark" alt="Data Science Stack" title="Python, Jupyter, RStudio, Pandas, NumPy, Scikit-learn, Tableau, Power BI, TensorFlow" />
     <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php&theme=dark" alt="Databases and Backend" title="SQL Server, MySQL, PostgreSQL, Java, HTML, CSS, Bootstrap, JavaScript, PHP" />
