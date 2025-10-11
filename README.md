@@ -18,7 +18,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,jupyter,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow&theme=dark" alt="Data Science Stack" title="Python, Jupyter, RStudio, Pandas, NumPy, Scikit-learn, Tableau, Power BI, TensorFlow" />
     <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php&theme=dark" alt="Databases and Backend" title="SQL Server, MySQL, PostgreSQL, Java, HTML, CSS, Bootstrap, JavaScript, PHP" />
-    <img src="https://skillicons.dev/icons?i=azure,docker,linux,vscode,git,bash,c&theme=dark" alt="Cloud and Cyber Tools" title="Microsoft Azure, Docker, Linux, VSCode, Git, Bash/>
+    <img src="https://skillicons.dev/icons?i=azure,docker,linux,vscode,git,bash,c&theme=dark" alt="Cloud and Cyber Tools" title="Microsoft Azure, Docker, Linux, VSCode, Git, Bash, C/C++" />
 </p>
 
 ---
