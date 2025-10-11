@@ -40,16 +40,6 @@ This led me to **Information Systems** & **Data Science**, bridging technology, 
 
 ---
 
-## 🌌 Dark Cyber Animations
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Matrix Code Animation" width="400"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cyber Intrusion Alert" width="400"/>
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Hacking Terminal Event" width="400"/>
-</p>
-
----
-
 ## 🌱 Driven and Adaptable
 
 Committed to continuous learning, growth, and collaboration.  
