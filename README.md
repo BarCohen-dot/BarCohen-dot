@@ -44,7 +44,7 @@ This led me to specialize in **Information Systems** & **Data Science**, bridgin
 
 ---
 
-## <img src="https://img.shields.io/badge/-Driven&OAdaptable-FF0000?style=for-the-badge&logoColor=white"/>
+## <img src="https://img.shields.io/badge/-Driven%20&%20OAdaptable-FF0000?style=for-the-badge&logoColor=white"/>
 
 I thrive on continuous learning, growth, and collaboration.  
 I combine technical depth with curiosity, creativity, and a proactive approach to problem-solving.
