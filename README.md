@@ -24,7 +24,6 @@ I’m passionate about transforming data into actionable insights through **Mach
        title="Python, R, SQL, ML, Cloud, Cybersecurity Tools"/>
 </p>
 
-
 ---
 
 ## 🚀 Career Overview
