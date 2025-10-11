@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30&lines=Bar+Cohen%20-%20Data+Scientist%20-%20Architecting+Digital+Resilience" alt="Typing Animation" />
 </p>
 
-# 👋 Hi, I'm **Bar Cohen**
-
 🎓 **Graduate in Information Systems (B.Sc)** with a specialization in **Data Science**.  
 I’m passionate about transforming data into actionable insights through **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Software Engineering**, with a focus on **Cybersecurity**.
 
