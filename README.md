@@ -1,7 +1,7 @@
 <!-- Cyber / Data Science Banner -->
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=40&lines=Bar+Cohen+|+Data+Scientist;Architecting+Digital+Resilience&background=000000&width=1000&height=150" alt="Typing Animation Header" />
+</p>
 
 <!-- Profile Views -->
 <p align="center">
