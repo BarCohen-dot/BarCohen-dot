@@ -1,7 +1,69 @@
 <!-- Cyber / Data Science Banner -->
-<div style="background-color: black; text-align: center; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30&lines=Bar+Cohen+|+Data+Scientist;Architecting+Digital+Resilience&background=000000" alt="Typing Animation" />
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bar Cohen | Data Scientist</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Orbitron', sans-serif;
+      background-color: white; /* שאר הדף לבן */
+      color: black;
+    }
+
+    /* Header עם רקע שחור */
+    header {
+      background-color: black;
+      color: #00FF00;
+      height: 200px; /* גובה Header */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-size: 2em;
+    }
+
+    .typing {
+      border-right: 3px solid #00FF00; /* קו מהבהב */
+      white-space: nowrap;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="typing" id="typing-text"></div>
+  </header>
+
+  <main>
+    <p>זהו תוכן הדף מתחת ל־Header. כאן כל התוכן רגיל, צבע הרקע לבן.</p>
+  </main>
+
+  <script>
+    const text = "Bar Cohen | Data Scientist; Architecting Digital Resilience";
+    const typingElement = document.getElementById('typing-text');
+    let index = 0;
+
+    function type() {
+      if (index < text.length) {
+        typingElement.innerHTML += text.charAt(index);
+        index++;
+        setTimeout(type, 100);
+      } else {
+        setTimeout(() => {
+          typingElement.innerHTML = "";
+          index = 0;
+          type();
+        }, 2000);
+      }
+    }
+
+    type();
+  </script>
+</body>
+</html>
+
 
 
 <!-- Profile Views -->
