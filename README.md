@@ -78,44 +78,27 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 <!------------ New ---------->
 
-<!-- 🚀 FUTURISTIC GITHUB OVERVIEW SECTION 🚀 -->
+<!-- ⚡️ FUTURISTIC GITHUB OVERVIEW ⚡️ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFCC&size=32&center=true&vCenter=true&width=600&lines=⚡+WELCOME+TO+MY+GITHUB+UNIVERSE+⚡;🧠+DATA+MEETS+CODE+IN+ACTION+💻;🌍+DISCOVER+MY+JOURNEY+THROUGH+TECH+🚀" alt="Typing Animation">
-</p>
+<div align="center" style="background:#000000; border: 2px solid #00FFCC; border-radius:20px; box-shadow: 0 0 30px #00FFCC; padding:20px;">
 
----
+  <!-- Title Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFCC&size=35&center=true&vCenter=true&width=1000&lines=🚀+WELCOME+TO+MY+GITHUB+UNIVERSE+🚀;💡+DATA+MEETS+AI,+CODE+MEETS+CREATIVITY+💻;🌌+WHERE+INNOVATION+NEVER+SLEEPS+⚙️" alt="Typing Animation">
+  
+  <br><br>
 
-## ⚙️ GitHub Tech Overview
+  <!-- GitHub Stats -->
+  <div style="border: 2px solid #00FFCC; border-radius:15px; padding:10px; margin:10px; box-shadow: 0 0 20px #00FFCC;">
+    <img src="https://github-readme-stats.vercel.app/api?username=BarCohen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarCohen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats">
-</p>
+  <!-- Top Languages -->
+  <div style="border: 2px solid #00FFCC; border-radius:15px; padding:10px; margin:10px; box-shadow: 0 0 20px #00FFCC;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarCohen&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarCohen&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
+  <br>
 
----
+  <!-- Repositories Counter -->
+  <img src="https://img.shields.io/badge/📦%20Total%20Public%20Repositories-23-0
 
-### 📦 Total Public Repositories
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-23-00FFCC?style=for-the-badge&logo=github&logoColor=black" alt="Total Public Repos">
-</p>
-
----
-
-### 📈 Quarterly Activity Overview
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=BarCohen&combine_all_yearly_contributions=true&theme=radical&limit=4&hide_border=true" alt="Quarterly Activity Chart">
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔧_Coding%20Since-2019-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/💡_Always%20Learning-Data%20Science%20%7C%20AI%20%7C%20ML-00FFCC?style=for-the-badge">
-</p>
-
-
----
