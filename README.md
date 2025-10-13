@@ -5,7 +5,7 @@
        style="border: 2; box-shadow: 0 0 30px #00FF00;" />
 </p>
 
-## <img src="https://img.shields.io/badge/-Repositories%20Summary-32CD32?style=for-the-badge&logo=github&logoColor=white"/>
+## <img src="https://img.shields.io/badge/-GitHub%20Overview-32CD32?style=for-the-badge&logo=github&logoColor=white"/>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://img.shields.io/badge/Total%20Public%20Repositories-15-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Total Public Repos"/>
