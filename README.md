@@ -65,19 +65,6 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 ---
 
-## <img src="https://img.shields.io/badge/-Connect%20with%20Me-0D47A1?style=for-the-badge&logoColor=white"/>
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/bar--cohen-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/BarCohen-dot" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## <img src="https://img.shields.io/badge/-GitHub%20Overview-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
 
 <!-- GitHub Stats -->
@@ -96,5 +83,16 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarCohen-dot&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
+---
 
+## <img src="https://img.shields.io/badge/-Connect%20with%20Me-0D47A1?style=for-the-badge&logoColor=white"/>
+
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/bar--cohen-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/BarCohen-dot" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
