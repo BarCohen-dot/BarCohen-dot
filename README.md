@@ -110,18 +110,6 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 ---
 
-<!-- Featured Projects -->
-## <img src="https://img.shields.io/badge/-Featured%20Repositories-006400?style=for-the-badge&logoColor=white"/>
-
-<p align="center">
-  <a href="https://github.com/BarCohen-dot/Movie-Series-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Movie-Series-Website&theme=chartreuse-dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/BarCohen-dot/School-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=School-Management-System&theme=chartreuse-dark&hide_border=true" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/BarCohen-dot/Soccer-League-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Soccer-League-Project&theme=chartreuse-dark&hide_border=true" />
@@ -129,13 +117,6 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
   <a href="https://github.com/BarCohen-dot/Gmail-Auto-Mail-Sender">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Gmail-Auto-Mail-Sender&theme=chartreuse-dark&hide_border=true" />
   </a>
-</p>
-
----
-
-<!-- Terminal Style Footer -->
-<p align="center" style="background-color:#000; color:#00FF00; font-family:Courier New; padding:15px; border-radius:10px;">
-  <b>barcohen@github:</b>~$ echo "Keep learning, keep building, keep hacking 💻"
 </p>
 
 
