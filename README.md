@@ -65,7 +65,7 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 ---
 
-## <img src="https://img.shields.io/badge/-GitHub%20Overview-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
+## <img src="https://img.shields.io/badge/-Statistics-00CED1?style=for-the-badge&logo=github&logoColor=white"/>
 
 <!-- GitHub Stats -->
 <p align="center">
