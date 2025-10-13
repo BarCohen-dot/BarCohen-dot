@@ -97,27 +97,3 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 </p>
 
 ---
-
-## <img src="https://img.shields.io/badge/-Repositories%20Summary-32CD32?style=for-the-badge&logo=github&logoColor=white"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/BarCohen-dot | grep public_repos | cut -d ':' -f2 | cut -d ',' -f1)-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Total Public Repos"/>
-</p>
-
-<p align="center">
-  🌱 Constantly expanding my repository collection with new **AI, ML, and Cybersecurity** projects.
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/BarCohen-dot/Soccer-League-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Soccer-League-Project&theme=chartreuse-dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/BarCohen-dot/Gmail-Auto-Mail-Sender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Gmail-Auto-Mail-Sender&theme=chartreuse-dark&hide_border=true" />
-  </a>
-</p>
-
-
-
