@@ -5,10 +5,13 @@
        style="border: 2; box-shadow: 0 0 30px #00FF00;" />
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barcohen&label=Profile+Views&color=00FF00&labelColor=000000&style=flat-square" alt="Profile views"/>
+## <img src="https://img.shields.io/badge/-Repositories%20Summary-32CD32?style=for-the-badge&logo=github&logoColor=white"/>
+
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://img.shields.io/badge/Total%20Public%20Repositories-15-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Total Public Repos"/>
+  <img src="https://komarev.com/ghpvc/?username=barcohen&label=Profile+Views&color=00FF00&labelColor=000000&style=for-the-badge" alt="Profile views"/>
 </p>
+
 
 ---
 
@@ -100,18 +103,6 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 ---
 
-## <img src="https://img.shields.io/badge/-Repositories%20Summary-32CD32?style=for-the-badge&logo=github&logoColor=white"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Public%20Repositories-15-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Total Public Repos"/>
-</p>
-
-<p align="center">
-  🌱 Constantly expanding my repository collection with new **AI, ML, and Cybersecurity** projects.
-</p>
-
----
-
 <!-- Featured Projects -->
 ## <img src="https://img.shields.io/badge/-Featured%20Repositories-006400?style=for-the-badge&logoColor=white"/>
 
@@ -134,10 +125,5 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 </p>
 
 ---
-
-<!-- Terminal Style Footer -->
-<p align="center" style="background-color:#000; color:#00FF00; font-family:Courier New; padding:15px; border-radius:10px;">
-  <b>barcohen@github:</b>~$ echo "Keep learning, keep building, keep hacking 💻"
-</p>
 
 
