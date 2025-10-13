@@ -74,6 +74,69 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
   </a>
 </p>
 
+---
+
+<!-- New -->
+
+## <img src="https://img.shields.io/badge/-GitHub%20Overview-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BarCohen-dot&show_icons=true&theme=chartreuse-dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarCohen-dot&theme=chartreuse-dark&hide_border=true" height="160" />
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarCohen-dot&layout=compact&theme=chartreuse-dark&hide_border=true" height="140" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarCohen-dot&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
 
 ---
+
+## <img src="https://img.shields.io/badge/-Repositories%20Summary-32CD32?style=for-the-badge&logo=github&logoColor=white"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/BarCohen-dot | grep public_repos | cut -d ':' -f2 | cut -d ',' -f1)-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Total Public Repos"/>
+</p>
+
+<p align="center">
+  🌱 Constantly expanding my repository collection with new **AI, ML, and Cybersecurity** projects.
+</p>
+
+---
+
+<!-- Featured Projects -->
+## <img src="https://img.shields.io/badge/-Featured%20Repositories-006400?style=for-the-badge&logoColor=white"/>
+
+<p align="center">
+  <a href="https://github.com/BarCohen-dot/Movie-Series-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Movie-Series-Website&theme=chartreuse-dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/BarCohen-dot/School-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=School-Management-System&theme=chartreuse-dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BarCohen-dot/Soccer-League-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Soccer-League-Project&theme=chartreuse-dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/BarCohen-dot/Gmail-Auto-Mail-Sender">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Gmail-Auto-Mail-Sender&theme=chartreuse-dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<!-- Terminal Style Footer -->
+<p align="center" style="background-color:#000; color:#00FF00; font-family:Courier New; padding:15px; border-radius:10px;">
+  <b>barcohen@github:</b>~$ echo "Keep learning, keep building, keep hacking 💻"
+</p>
+
+
 
