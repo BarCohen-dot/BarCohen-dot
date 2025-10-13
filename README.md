@@ -78,27 +78,30 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 <!------------ New ---------->
 
-<!-- ⚡️ FUTURISTIC GITHUB OVERVIEW ⚡️ -->
+---
 
-<div align="center" style="background:#000000; border: 2px solid #00FFCC; border-radius:20px; box-shadow: 0 0 30px #00FFCC; padding:20px;">
+## <img src="https://img.shields.io/badge/-Activity%20by%20Quarter-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
 
-  <!-- Title Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFCC&size=35&center=true&vCenter=true&width=1000&lines=🚀+WELCOME+TO+MY+GITHUB+UNIVERSE+🚀;💡+DATA+MEETS+AI,+CODE+MEETS+CREATIVITY+💻;🌌+WHERE+INNOVATION+NEVER+SLEEPS+⚙️" alt="Typing Animation">
-  
-  <br><br>
+<p align="center">
+  <b>🟩 Q1 – January to March</b><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarCohen-dot&from=2025-01-01&to=2025-03-31&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" />
+</p>
 
-  <!-- GitHub Stats -->
-  <div style="border: 2px solid #00FFCC; border-radius:15px; padding:10px; margin:10px; box-shadow: 0 0 20px #00FFCC;">
-    <img src="https://github-readme-stats.vercel.app/api?username=BarCohen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
-  </div>
+<p align="center">
+  <b>🟩 Q2 – April to June</b><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarCohen-dot&from=2025-04-01&to=2025-06-30&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" />
+</p>
 
-  <!-- Top Languages -->
-  <div style="border: 2px solid #00FFCC; border-radius:15px; padding:10px; margin:10px; box-shadow: 0 0 20px #00FFCC;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarCohen&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </div>
+<p align="center">
+  <b>🟩 Q3 – July to September</b><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarCohen-dot&from=2025-07-01&to=2025-09-30&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" />
+</p>
 
-  <br>
+<p align="center">
+  <b>🟩 Q4 – October to December</b><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarCohen-dot&from=2025-10-01&to=2025-12-31&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" />
+</p>
 
-  <!-- Repositories Counter -->
-  <img src="https://img.shields.io/badge/📦%20Total%20Public%20Repositories-23-0
+---
+
 
