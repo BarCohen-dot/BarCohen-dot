@@ -78,10 +78,6 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 ---
 
-<!------------ New ---------->
-
----
-
 ## <img src="https://img.shields.io/badge/-GitHub%20Overview-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
 
 <!-- GitHub Stats -->
@@ -100,29 +96,5 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarCohen-dot&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
----
-
-<!-- Featured Projects -->
-## <img src="https://img.shields.io/badge/-Featured%20Repositories-006400?style=for-the-badge&logoColor=white"/>
-
-<p align="center">
-  <a href="https://github.com/BarCohen-dot/Movie-Series-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Movie-Series-Website&theme=chartreuse-dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/BarCohen-dot/School-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=School-Management-System&theme=chartreuse-dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BarCohen-dot/Soccer-League-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Soccer-League-Project&theme=chartreuse-dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/BarCohen-dot/Gmail-Auto-Mail-Sender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BarCohen-dot&repo=Gmail-Auto-Mail-Sender&theme=chartreuse-dark&hide_border=true" />
-  </a>
-</p>
-
----
 
 
