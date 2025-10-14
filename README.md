@@ -156,7 +156,6 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
   <a href="https://www.linkedin.com/in/bar--cohen-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/BarCohen-dot" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub"/>
   </a>
