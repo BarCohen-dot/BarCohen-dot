@@ -23,7 +23,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 ## Languages, Tools & Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=25&center=true&vCenter=true&lines=💻+Key+Skills+and+Technologies+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=red&size=25&center=true&vCenter=true&lines=💻+Key+Skills+and+Technologies+💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
