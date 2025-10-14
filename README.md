@@ -20,7 +20,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 ---
 
 <!-- Skills Icons -->
-##                                                               Languages, Tools & Technologies
+## Languages, Tools & Technologies
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=red&size=25&center=true&vCenter=true&lines=💻+Key+Skills+and+Technologies+💻" alt="Typing SVG" />
@@ -33,8 +33,9 @@ I’m passionate about transforming data into actionable insights through **Mach
 </p>
 
 ---
-
-## Key Skills Developed
+<p align="center">
+  ## Key Skills Developed
+</p>
 
 - **Programming:** HTML, CSS, JavaScript, PHP, Java, Python, R (RStudio)  
 - **OOP:** Object-Oriented Programming principles  
