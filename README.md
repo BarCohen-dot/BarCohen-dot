@@ -150,7 +150,7 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 ---
 
-## <img src="https://img.shields.io/badge/-Connect%20with%20Me-0D47A1?style=for-the-badge&logoColor=white"/>
+## <img src="https://img.shields.io/badge/-Connect%20with%20Me-FFFFFF?style=for-the-badge&logoColor=white"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bar--cohen-" target="_blank">
