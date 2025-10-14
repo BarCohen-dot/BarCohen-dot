@@ -20,7 +20,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 ---
 
 <!-- Skills Icons -->
-## 🧠 Languages, Tools & Technologies
+## Languages, Tools & Technologies
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=25&center=true&vCenter=true&lines=💻+Key+Skills+and+Technologies+💻" alt="Typing SVG" />
@@ -34,7 +34,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ---
 
-## 💡 Key Skills Developed
+## Key Skills Developed
 
 - **Programming:** HTML, CSS, JavaScript, PHP, Java, Python, R (RStudio)  
 - **OOP:** Object-Oriented Programming principles  
@@ -48,7 +48,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ---
 
-## 🧩 Cybersecurity & Network Analysis Tools
+## Cybersecurity & Network Analysis Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
@@ -61,7 +61,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ---
 
-## ⚙️ Platforms & Software
+## Platforms & Software
 
 <p align="center">
   <img src="https://img.shields.io/badge/IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="IDLE"/>
