@@ -8,8 +8,8 @@
 ## <img src="https://img.shields.io/badge/-GitHub%20Overview-32CD32?style=for-the-badge&logo=github&logoColor=white"/>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://img.shields.io/badge/Total%20Public%20Repositories-13-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Total Public Repos"/>
-  <img src="https://komarev.com/ghpvc/?username=barcohen&label=Profile+Views&color=00FF00&labelColor=000000&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Total%20Public%20Repositories-13-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Total Public Repos"/>
+  <img src="https://komarev.com/ghpvc/?username=barcohen&label=Profile+Views&color=FF0000&labelColor=000000&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
