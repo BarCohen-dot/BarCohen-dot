@@ -59,8 +59,6 @@ I’m passionate about transforming data into actionable insights through **Mach
   <img src="https://img.shields.io/badge/ProtonVPN-2D8C4D?style=for-the-badge&logo=protonvpn&logoColor=white" alt="ProtonVPN"/>
 </p>
 
----
-
 ## Platforms & Software
 
 <p align="center">
