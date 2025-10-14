@@ -23,7 +23,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 ## Languages, Tools & Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=red&size=25&center=true&vCenter=true&lines=💻+Key+Skills+and+Technologies+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=FFFF33&size=25&center=true&vCenter=true&lines=💻+Key+Skills+and+Technologies+💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -63,7 +63,9 @@ I’m passionate about transforming data into actionable insights through **Mach
   <img src="https://img.shields.io/badge/ProtonVPN-2D8C4D?style=for-the-badge&logo=protonvpn&logoColor=white" alt="ProtonVPN"/>
 </p>
 
-## Platforms & Software
+<h2 align="center" style="font-size: 1.5em; font-weight: bold;">
+   Platforms & Software
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="IDLE"/>
