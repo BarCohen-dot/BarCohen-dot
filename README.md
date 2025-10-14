@@ -153,9 +153,7 @@ Outside of tech, I explore **innovative product ideas**, smart systems, and **AI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bar--cohen-" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30"/>
-    
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- רווח בין האייקונים -->
   <a href="https://github.com/BarCohen-dot" target="_blank">
