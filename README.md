@@ -92,7 +92,7 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ---
 
-## <img src="https://img.shields.io/badge/-Career%20Overview-0077B5?style=for-the-badge&logoColor=white"/>
+## <img src="https://img.shields.io/badge/-Career%20Overview-FF8C00?style=for-the-badge&logoColor=white"/>
 
 
 I started as a **Practical Mechanical Engineer** and **IDF Technical Team Member**, developing strong analytical and problem-solving skills.  
