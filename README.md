@@ -20,11 +20,52 @@ I’m passionate about transforming data into actionable insights through **Mach
 ---
 
 <!-- Skills Icons -->
+## 🧠 Languages, Tools & Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,jupyter,anaconda,r,pandas,numpy,sklearn,tableau,powerbi,tensorflow,sqlserver,mysql,postgresql,java,html,css,bootstrap,js,php,azure,docker,linux,vscode,git,bash,github&theme=dark&bg=000000" 
-       alt="Full Tech Stack" 
-       title="Python, R, SQL, ML, Cloud, Cybersecurity Tools"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=25&center=true&vCenter=true&lines=💻+Key+Skills+and+Technologies+💻" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,anaconda,jupyter,r,java,php,html,css,bootstrap,js,git,github,vscode,pycharm,eclipse,intellij,androidstudio,xcode,azure,docker,linux,windows,mysql,postgresql,mongodb,sqlite,figma,canva,powerbi,tableau,excel,visualstudio,kali,tor&theme=dark&perline=12&bg=000000" 
+       alt="Full Tech Stack" 
+       title="Programming, Data Science, Cybersecurity, Databases, Visualization & Cloud Tools"/>
+</p>
+
+---
+
+### 💡 **Key Skills Developed**
+
+- **Programming:** HTML, CSS, JavaScript, PHP, Java, Python, R (RStudio)  
+- **OOP:** Object-Oriented Programming principles  
+- **Databases:** SQL, MySQL, MongoDB, Database Design (ERD, Normalization, Optimization)  
+- **Machine Learning & Data Science:** NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, R  
+- **Statistical Learning & Data Analysis**  
+- **Data Structures & Algorithms**  
+- **Tools:** Docker, Azure Data Studio, Power BI, Tableau, Excel  
+- **Web Development:** PHP, HTML, CSS (Bootstrap), JavaScript  
+- **Additional Tools:** Google Colab, Visual Paradigm, Axure RP, Draw.io, Figma, Canva  
+
+---
+
+### 🧩 **Cybersecurity & Network Analysis Tools**
+
+- **Wireshark** — Network protocol analyzer for packet inspection  
+- **OWASP ZAP** — Web application security scanner  
+- **Zenmap (Nmap GUI)** — Network mapping and vulnerability scanning  
+- **Tor Browser** — Anonymous and secure web browsing  
+- **UTM (Kali Linux)** — Virtualized penetration testing environment  
+- **ProtonVPN** — Secure VPN for privacy and encrypted communication  
+
+---
+
+### ⚙️ **Platforms & Software**
+
+- **IDEs & Environments:** IDLE, PyCharm CE, Eclipse, Visual Studio Code, IntelliJ IDEA CE, RStudio, Anaconda Navigator, Android Studio, Xcode  
+- **Cloud & Data Tools:** Docker, Azure Data Studio, Power BI, MySQL, RStudio  
+- **Operating Systems:** macOS, Windows, Kali Linux  
+- **Microsoft Office 365:** Advanced Excel functions & VBA
+
 
 ---
 
