@@ -8,7 +8,7 @@
 ## <img src="https://img.shields.io/badge/-GitHub%20Overview-FFB700?style=for-the-badge&logo=github&logoColor=white"/>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://img.shields.io/badge/Total%20Public%20Repositories-13-FF0000?style=for-the-badge&labelColor=000000" alt="Total Public Repos"/>
+  <img src="https://img.shields.io/badge/Total%20Public%20Repositories-13-FFFFFF?style=for-the-badge&labelColor=2F2F2F" alt="Total Public Repos"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=barcohen&label=Profile+Views&color=FF0000&labelColor=000000&style=for-the-badge" alt="Profile views"/>
 </p>
