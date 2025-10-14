@@ -33,9 +33,10 @@ I’m passionate about transforming data into actionable insights through **Mach
 </p>
 
 ---
-<p align="center">
-  ## Key Skills Developed
-</p>
+
+<h2 align="center" style="font-size: 1.5em; font-weight: bold;">
+  Key Skills Developed
+</h2>
 
 - **Programming:** HTML, CSS, JavaScript, PHP, Java, Python, R (RStudio)  
 - **OOP:** Object-Oriented Programming principles  
@@ -49,7 +50,9 @@ I’m passionate about transforming data into actionable insights through **Mach
 
 ---
 
-## Cybersecurity & Network Analysis Tools
+<h2 align="center" style="font-size: 1.5em; font-weight: bold;">
+  Cybersecurity & Network Analysis Tools
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
